@@ -1,0 +1,68 @@
+.huge-header{
+    background-image: url(  https://rare-gallery.com/uploads/posts/574761-armchair-black.jpg);
+    /* background-color: brown; */
+    height: 90vh;
+    width: 100%;
+    margin-top: 2.5%;
+    margin-bottom: 3%;
+    /* width: 30%; */
+    background-repeat: no-repeat;
+
+}
+
+body {
+    height: 100%;
+    width: 100%;
+    margin: 0 auto;
+}
+
+.caption h1{
+    font-size: 40px;
+    font-weight: bold;
+    display: inline-block;
+    }
+    .caption{
+        width: 55%;
+        text-align: Center;
+        position: absolute;
+        margin-left: 22%;
+        margin-top: 10%;
+        color: antiquewhite;
+
+    }
+    .Team{
+        color: #fbc531;
+        margin-left: 0.5%;
+    }
+    p{
+        margin-top: 0%;
+        color: white;
+    }
+
+  .overlay{
+    position: absolute;
+    width: 100%;
+    height: 90%;
+    background-color: rgba(0,0,0,0.7);
+}
+
+.Images{
+    width:21%;
+    height:21%;
+}
+
+ul{
+    list-style-type: none;
+    position: absolute;
+    margin-top: 27%;
+    margin-left: -2.5%;
+
+   
+}
+
+li{
+    display: inline;
+    padding-left: 3%;
+   
+
+}
